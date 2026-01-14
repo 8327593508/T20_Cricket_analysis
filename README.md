@@ -138,6 +138,9 @@ Portfolio Website Deployment
 
 The dashboard provides complete player performance intelligence:
 
+<img width="1147" height="644" alt="image" src="https://github.com/user-attachments/assets/27da0403-50dc-4f5b-a2c1-365da61c60fa" />
+
+
 ### 🔹 Interactive Player Analysis
 
 * Player-wise performance table
